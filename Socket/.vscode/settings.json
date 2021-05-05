@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": [
+        "src/com.FileInputStream",
+        "src/wqw",
+        "src/com.BufferedInputStream",
+        "src/com.InputStream",
+        "src/数据流",
+        "src/com.ObjectInputStream",
+        "src/com.RandomAcession",
+        "src/com.socket1",
+        "src/com.url"
+    ],
+     "java.project.referencedLibraries":[
+         "lib/**/*.jar",
+        "D:\\ProgramOfJava\\IO\\Test\\lib\\junit-platform-console-standalone-1.8.0-M1.jar"
+     ],
+    // "workbench.startupEditor":"newUntitledFile",
+    // "files.exclude": {
+    //     "**/.classpath": true,
+    //     "**/.projet": true,
+    //     "**/.setting": true,
+    //     "**/.factorypath": true
+    // }
+}
